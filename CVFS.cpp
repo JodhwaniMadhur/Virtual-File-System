@@ -1,35 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@JodhwaniMadhur 
-JodhwaniMadhur
-/
-Process-Monitor
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Process-Monitor/CVFS.cpp
-@JodhwaniMadhur
-JodhwaniMadhur Customised Virtual File System
-…
-Latest commit 4958edc on 5 Sep 2020
- History
- 1 contributor
-1206 lines (1085 sloc)  29.3 KB
-  
 /////////////////////////////////////////////////////////////////////////////////////
 //
 //	Application to demonstrate Customized Virtual File System 
@@ -1235,16 +1204,3 @@ int main()
 	}
 	return 0;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
